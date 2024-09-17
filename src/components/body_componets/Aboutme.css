@@ -1,0 +1,16 @@
+.block {
+    margin: 50px auto;
+}
+
+.big-block {
+    /* display: inline-block; */
+    border: dotted 2px;
+    border-color: gray;
+    width: 65%;
+    margin: 40px auto;
+}
+
+img {
+    margin-bottom: -40px;
+    margin-top: 20px;
+}

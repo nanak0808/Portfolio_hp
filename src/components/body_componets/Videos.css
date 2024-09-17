@@ -1,0 +1,48 @@
+.line {
+    display: flex;
+    justify-content: space-around;
+}
+.line Youtube {
+  margin-bottom: 100px;
+}
+
+.videos h4 {
+  font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
+  margin-bottom: 0px;
+}
+
+
+/* .videos {
+    width: 90%;
+    margin: 8% auto;
+  }
+  .container .list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  .container .list .wrap-element {
+    padding: 0;
+    max-width: 32%;
+    display: inline-block;
+    margin-bottom: 1%;
+    transition: all 0.5s 0s ease;
+  }
+  .container .list .wrap-element article {
+    display: inline-block;
+  }
+  .container .list .wrap-element article Youtube {
+    width: 100%;
+    height: auto;
+  }
+  
+  @media screen and (max-width: 1023px) {
+    .container .list .wrap-element {
+      max-width: 48%;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .container .list .wrap-element {
+      max-width: 100%;
+    }
+  } */

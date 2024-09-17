@@ -6,9 +6,9 @@ import { Body } from './components/Body';
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Body/>
-      <Footer/>
+      <Header />
+      <Body />
+      <Footer />
     </div>
   );
 }

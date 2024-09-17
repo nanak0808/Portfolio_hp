@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&display=swap');
+
+.header {
+    height: 100vh;
+    /* align-items: center; */
+    position: relative;
+    font-family: 'Noto Serif JP', serif;
+    margin-bottom: 200px;
+}
+.text {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    margin: 0 auto;
+}
+h1 {
+    /* font-family: 'Noto Serif JP', serif; */
+    /* margin: 50% auto;
+     */
+     /* position: absolute;
+     top: 50%;
+     transform: translateY(-50%); */
+     /* line-height: 50%; */
+}
+.header-img {
+    height: 100vh;
+}
